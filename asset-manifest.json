@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JakkarinK/Login-Register-React.git/static/css/main.cead7fc5.css",
+    "main.js": "/JakkarinK/Login-Register-React.git/static/js/main.13ec81f6.js",
+    "index.html": "/JakkarinK/Login-Register-React.git/index.html",
+    "main.cead7fc5.css.map": "/JakkarinK/Login-Register-React.git/static/css/main.cead7fc5.css.map",
+    "main.13ec81f6.js.map": "/JakkarinK/Login-Register-React.git/static/js/main.13ec81f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cead7fc5.css",
+    "static/js/main.13ec81f6.js"
+  ]
+}
