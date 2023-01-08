@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/JakkarinK/Login-Register-React.git/static/css/main.cead7fc5.css",
-    "main.js": "/JakkarinK/Login-Register-React.git/static/js/main.13ec81f6.js",
-    "index.html": "/JakkarinK/Login-Register-React.git/index.html",
-    "main.cead7fc5.css.map": "/JakkarinK/Login-Register-React.git/static/css/main.cead7fc5.css.map",
-    "main.13ec81f6.js.map": "/JakkarinK/Login-Register-React.git/static/js/main.13ec81f6.js.map"
+    "main.css": "/Login-Register-React/static/css/main.cead7fc5.css",
+    "main.js": "/Login-Register-React/static/js/main.13ec81f6.js",
+    "index.html": "/Login-Register-React/index.html",
+    "main.cead7fc5.css.map": "/Login-Register-React/static/css/main.cead7fc5.css.map",
+    "main.13ec81f6.js.map": "/Login-Register-React/static/js/main.13ec81f6.js.map"
   },
   "entrypoints": [
     "static/css/main.cead7fc5.css",
